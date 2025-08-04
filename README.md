@@ -1,7 +1,8 @@
 # habit-tracker
+
 Track daily/weekly habits.
 
-Core Features:
+**Core Features:**<br>
 Add/Edit/Delete Habits
 
 Track daily/weekly completion
